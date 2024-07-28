@@ -7,7 +7,7 @@ Spigot plugin that clears the ground in a loop. Time of warning and time between
 ```yaml
 time-between-clears: 900 #seconds, default: 900s = 15min
 time-warn: 30 #seconds, default: 30s
-message: "&cThe floor will be cleared in &e{time}&c seconds!" #{time} = seconds until clear
+message: "&cThe floor will be cleared in &e{time}&c seconds!"
 ```
 
 ### Disclaimer
