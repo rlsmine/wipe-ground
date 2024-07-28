@@ -1,0 +1,4 @@
+name: WipeGround
+version: '${project.version}'
+main: br.com.rillis.wipeground.WipeGround
+api-version: '1.21'
